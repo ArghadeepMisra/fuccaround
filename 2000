@@ -1,0 +1,18 @@
+ping google.com
+clear
+p10K configure
+p10k configure
+clear
+ls
+cd G:
+ls
+cd Git
+clear
+git log --oneline --parent --graph
+git log --oneline --graph
+clear
+clear
+clear
+git log --oneline --graph
+clear
+clear
